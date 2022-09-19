@@ -17,7 +17,7 @@ import requests
 # In[2]:bitflyer
 
 zaif = ccxt.zaif()
-zaif.apiKey = '*********∆**'
+zaif.apiKey = '***********'
 zaif.secret = '***********'
 exchangeA=zaif
 
